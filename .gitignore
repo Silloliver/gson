@@ -10,7 +10,7 @@ release.properties
 .idea
 *.iml
 *.ipr
-*.iws
+*.iws    
 classes
 
 .gradle
